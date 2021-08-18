@@ -1,0 +1,21 @@
+html, body, div{
+	background-color: palegoldenrod;
+}
+
+img{
+	margin: 20px;
+	width: 80vw;
+}
+
+imput, button{
+	margin: 10px;
+	font-family: 'Caveat', cursive;
+}
+
+span, h2, ul{
+	font-family: 'Caveat', cursive;
+}
+
+.conteiner{
+	margin: 5px 12%;
+}
